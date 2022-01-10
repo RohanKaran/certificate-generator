@@ -1,8 +1,8 @@
-<iframe src="https://cg-rohankaran.herokuapp.com" title="description" width="100%" height="500rem"></iframe>
+<img src="preview.png" title="description" width="100%"></img>
 
 # Certificate Generator
-It is a website which generates certificate on adding organization name, logo and members' names. 
-
-Backend: Python FastAPI, Frontend: React. 
+### Web app created using React and FastAPI
+It generates certificate on adding organization name, logo and members' names. <br/>
+<a href='https://https://github.com/RohanKaran/certificate-generator-backend'>Backend</a>: Python FastAPI and <a href='https://https://github.com/RohanKaran/certificate-generator-frontend'>Frontend</a>: React. 
 <br/>
-- <a href='https://cg-rohankaran.herokuapp.com'>View Deployment</a>
+- <a href='https://cg-rohankaran.herokuapp.com'>View Deployment</a> 
